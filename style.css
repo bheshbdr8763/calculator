@@ -1,0 +1,32 @@
+body {
+    background-color: whitesmoke;
+}
+.outerdiv{
+   
+    margin: 100px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+   
+}
+.cover {
+    background-color: gray;
+    width: 276px;
+    border: 10px solid;
+    border-radius: 5%;
+
+}
+.key {
+    color: white;
+    background-color: black;
+    margin: 2px;
+    padding: 5px;
+    width: 60px;
+    height: 60px;
+    font-size: large;
+    border-radius: 20%;
+    font-family: cursive;
+}
+.key:hover {
+    background-color: blue;
+}
